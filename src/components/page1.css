@@ -1,0 +1,39 @@
+.heading {
+  text-align: center;
+  font-size: 40px;
+  font-weight: bold;
+  text-shadow: 0 0 3px cyan;
+}
+
+.btns {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 50px;
+  font-size: 30px;
+}
+
+.btn {
+  border: 2px solid red;
+  padding: 10px;
+  border-radius: 20px;
+  background-color: aqua;
+}
+
+.components {
+  margin-top: 80px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.components p {
+  font-size: 25px;
+}
+
+.components h1 {
+  font-size: 35px;
+}
+
+.comps {
+  height: 270px;
+  width: 600px;
+}
